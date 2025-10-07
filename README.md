@@ -1,8 +1,5 @@
 Виконала Самостійно Слобожан Софія РПЗ 24-А
 
-## Overview
-This lab focuses on exploring Amazon Web Services (AWS), specifically the process of launching and setting up virtual machines known as EC2 instances. The goal is to gain hands-on experience with AWS cloud infrastructure, including instance creation, configuration, and basic management.
-
 ## Pre-Lab Knowledge Check
 
 ### Role of AMIs and Their Accessibility
